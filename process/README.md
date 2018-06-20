@@ -7,3 +7,7 @@
 ## 3 [Linux 进程调度算法](note_3.md)
 
 ## 4 [负载均衡/实时系统](note_4.md)
+
+## 5 [QA](qa.md)
+
+## 6 [参考](relate.md)

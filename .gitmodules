@@ -1,3 +1,6 @@
 [submodule "process/process-codes"]
 	path = process/process-codes
 	url = https://github.com/jac0bwang/process-courses.git
+[submodule "memory/memory-courses"]
+	path = memory/memory-courses
+	url = https://github.com/jac0bwang/memory-courses.git

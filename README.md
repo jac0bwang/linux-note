@@ -6,9 +6,7 @@
 
 ## 3. [IO 系统](io/README.md)
 
-## 4. [设计模式](design-pattern/README.md)
-
-## 5. [性能优化](performance/README.md)
+## 4. [性能优化](performance/README.md)
 
 --------------------------------------------------------------------
 

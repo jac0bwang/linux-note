@@ -1,0 +1,17 @@
+[credential]
+    helper = store
+[user]
+    name = Jacob Wang
+    email = jacob_wang91@163.com
+[color]
+    ui = true
+    branch = auto
+    diff = auto
+    interactive = auto
+    status = auto
+[push]
+    default = current
+[core]
+    pager = less
+    editor = vim
+

@@ -27,3 +27,9 @@ https://github.com/ledinhminh/CS194-24.git
 ## ostep
 
 http://pages.cs.wisc.edu/~remzi/OSTEP/
+
+
+## comp790
+
+http://www.cs.unc.edu/~porter/courses/comp790/s17/jos.git
+
